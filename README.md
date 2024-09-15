@@ -50,5 +50,13 @@ This project demonstrates the implementation of both **Content-Based Filtering**
 
 - **Content-Based Filtering**: Recommends items based on the textual features of the products.
 - **Collaborative Filtering**: Recommends items based on user ratings and interactions.
-- **RMSE**: The Root Mean Squared Error (RMSE) for Collaborative Filtering was `X.XXX`.
+- **RMSE**: The Root Mean Squared Error (RMSE) for Collaborative Filtering was `0.7182`.
+
+
+Technologies Used
+Python
+Pandas, NumPy for data manipulation.
+Scikit-learn for TF-IDF vectorization and similarity computation.
+Surprise library for collaborative filtering.
+Matplotlib, Seaborn for data visualization.
 
